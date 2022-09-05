@@ -27,13 +27,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./.screenshots/img0.png)
-![](./.screenshots/img1.png)
-![](./.screenshots/img2.png)
+![](./.screenshots/1.png)
+![](./.screenshots/2.png)
+![](./.screenshots/3.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/neo2enigma/3-column-preview-card-component-main)
+- [Solution UR](https://github.com/neo2enigma/3-column-preview-card-component-main)
+- [Live Site URL](https://neo2enigma.github.io/3-column-preview-card-component-main/)
 
 ## My process
 First I started to understand the layout and break each part to a section. It is essential to think modular in a way to prevent dublication in css. This mean you have pollute css file.
@@ -53,7 +54,7 @@ I revised my css and HTML to times. I found that modular thinking and DRY patter
 
 ## Author
 
-- Linkedin - [](https://www.linkedin.com/in/kamran-safaei/)
+- Linkedin - [@kamran-safaei](https://www.linkedin.com/in/kamran-safaei/)
 - Frontend Mentor - [@devedoping](https://www.instagram.com/devedoping/)
 
 
