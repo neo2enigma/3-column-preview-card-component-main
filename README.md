@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution UR](https://github.com/neo2enigma/3-column-preview-card-component-main)
-- [Live Site URL](https://neo2enigma.github.io/3-column-preview-card-component-main/)
+- [Solution URL here](https://github.com/neo2enigma/3-column-preview-card-component-main)
+- [Live Site URL here](https://neo2enigma.github.io/3-column-preview-card-component-main/)
 
 ## My process
 First I started to understand the layout and break each part to a section. It is essential to think modular in a way to prevent dublication in css. This mean you have pollute css file.
